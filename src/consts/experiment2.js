@@ -1,0 +1,63 @@
+export const firebaseConfig = {
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+};
+
+export const emotionInductionImagesNegative = [
+  "assets/negative-images/Animal carcass 3.jpg",
+  "assets/negative-images/Bloody knife 1.jpg",
+  "assets/negative-images/Car accident 2.jpg",
+  "assets/negative-images/Car crash 1.jpg",
+  "assets/negative-images/Baby 7.jpg",
+  "assets/negative-images/Dummy 1.jpg",
+  "assets/negative-images/Explosion 5.jpg",
+  "assets/negative-images/Scary face 1.jpg",
+  "assets/negative-images/Cockroach 1.jpg",
+  "assets/negative-images/Shot 3.jpg",
+  "assets/negative-images/War 6.jpg",
+];
+
+export const emotionInductionImagesPositive = [
+  "assets/positive-images/Baby 1.jpg",
+  "assets/positive-images/Beach 1.jpg",
+  "assets/positive-images/Bird 3.jpg",
+  "assets/positive-images/Cat 5.jpg",
+  "assets/positive-images/Dog 6.jpg",
+  "assets/positive-images/Flowers 2.jpg",
+  "assets/positive-images/Galaxy 7.jpg",
+  "assets/positive-images/Horse 1.jpg",
+  "assets/positive-images/Lake 9.jpg",
+  "assets/positive-images/Penguins 2.jpg",
+  "assets/positive-images/Picnic 1.jpg",
+  "assets/positive-images/Rainbow 2.jpg",
+];
+
+export const searchImages = [
+  "assets/search/fixation.svg",
+  "assets/search/neg-neu-1.svg",
+  "assets/search/neg-neu-2.svg",
+  "assets/search/neg-neu-3.svg",
+  "assets/search/neg-neu-4.svg",
+  "assets/search/neg-pos-1.svg",
+  "assets/search/neg-pos-2.svg",
+  "assets/search/neg-pos-3.svg",
+  "assets/search/neg-pos-4.svg",
+  "assets/search/pos-neg-1.svg",
+  "assets/search/pos-neg-2.svg",
+  "assets/search/pos-neg-3.svg",
+  "assets/search/pos-neg-4.svg",
+  "assets/search/pos-neu-1.svg",
+  "assets/search/pos-neu-2.svg",
+  "assets/search/pos-neu-3.svg",
+  "assets/search/pos-neu-4.svg",
+  "assets/search/test.svg",
+  "assets/search/test2.svg",
+  "assets/search/neg-neu.png",
+  "assets/search/neg-pos.png",
+  "assets/search/pos-neg.png",
+  "assets/search/pos-neu.png",
+];
