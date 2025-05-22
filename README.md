@@ -9,4 +9,4 @@
 ## Uzmanību!
 
 1. Nav publiskotas Firebase API atslēgas, kas nepieciešamas datu saglabāšanai datubāzē
-2. OASIS afektīvās bildes NAV iekļautas šajā repozitorijā, taču, lai veiksmīgi palaistu "eksperiments2.js" un "eksperiments3.js", tiek paredzēts, ka ceļā "assets/positive-images" un "assets/neutral-images" tās būs atrodamas.
+2. OASIS afektīvās bildes NAV iekļautas šajā repozitorijā, taču, lai veiksmīgi palaistu "eksperiments2.js" un "eksperiments3.js", tiek paredzēts, ka ceļā "assets/positive-images" un "assets/negative-images" tās būs atrodamas.
